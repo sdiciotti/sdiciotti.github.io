@@ -7,12 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research in 
 
-My projects
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-For more info
-------
-More info about configuring academicpages can be found in [My academic page](https://www.unibo.it/sitoweb/stefano.diciotti/en).
+I am a **Associate Professor** in  in Biomedical Engineering at [Alma Mater Studiorum – University of Bologna](https://www.unibo.it/en/homepage)
+
+
+## Contact
+
+<address>
+  Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi",Viale del Risorgimento 2, 40136 Bologna
+</address>
+<br>
+<!-- ([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA)) -->
+
+<iframe src="https://www.google.com/maps/place/Viale+del+Risorgimento,+2,+40136+Bologna+BO/@44.4879448,11.3267078,17z/data=!3m1!4b1!4m5!3m4!1s0x477fd4f28ee9408b:0x7a37ed221408d7ba!8m2!3d44.4879448!4d11.3288965" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
+
+## CV
+
+Full CV (soon available [here](#))
+
+Short biography [here](files/biography.txt)
+
+
