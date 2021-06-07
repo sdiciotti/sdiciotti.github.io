@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a **Associate Professor** in Biomedical Engineering at [Alma Mater Studiorum – University of Bologna](https://www.unibo.it/en/homepage)
+I am an **Associate Professor** in Biomedical Engineering at [Alma Mater Studiorum – University of Bologna](https://www.unibo.it/en/homepage)
 
 
 ## Contact
